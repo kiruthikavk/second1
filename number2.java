@@ -1,5 +1,5 @@
 import java.io.*;
-class number2
+class number2rkkkk
 {
 public static void main(String args[])
 {
